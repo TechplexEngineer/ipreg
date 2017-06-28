@@ -4,9 +4,9 @@ import(
 	"os/signal"
 	"os"
 	"log"
-	"./web"
-	"./scanner"
-	"./config"
+	"github.com/TechplexEngineer/ipreg/web"
+	"github.com/TechplexEngineer/ipreg/scanner"
+	"github.com/TechplexEngineer/ipreg/config"
 )
 
 func main() {

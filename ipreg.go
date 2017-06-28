@@ -4,9 +4,9 @@ import(
 	"os/signal"
 	"os"
 	"log"
-	"github.com/nealjc/ipreg/web"
-	"github.com/nealjc/ipreg/scanner"
-	"github.com/nealjc/ipreg/config"
+	"./web"
+	"./scanner"
+	"./config"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package config
 import (
 	"net"
 	"log"
-	"github.com/nealjc/ipreg/scanner"
+	"github.com/TechplexEngineer/ipreg/scanner"
 	"gopkg.in/gcfg.v1"
 )
 

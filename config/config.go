@@ -4,7 +4,7 @@ import (
 	"net"
 	"log"
 	"github.com/nealjc/ipreg/scanner"
-	"code.google.com/p/gcfg"
+	"gopkg.in/gcfg.v1"
 )
 
 func generateAllInSubnet(ipNet *net.IPNet, subnet *scanner.Subnet) {
